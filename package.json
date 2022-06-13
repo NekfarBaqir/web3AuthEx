@@ -6,7 +6,7 @@
     "@walletconnect/qrcode-modal": "^1.7.7",
     "@web3auth/base": "^0.9.3",
     "@web3auth/core": "^0.9.3",
-    "@web3auth/ethereum-provider": "file:../../packages/providers/ethereum-provider",
+    "@web3auth/ethereum-provider": "^1.0.1",
     "@web3auth/openlogin-adapter": "^0.9.3",
     "@web3auth/solana-provider": "^0.9.3",
     "@web3auth/ui": "^1.0.1",

@@ -2840,8 +2840,10 @@
     eth-rpc-errors "^4.0.3"
     ethereumjs-util "^7.1.4"
 
-"@web3auth/ethereum-provider@^1.0.1", "@web3auth/ethereum-provider@file:../../packages/providers/ethereum-provider":
+"@web3auth/ethereum-provider@^1.0.1":
   version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@web3auth/ethereum-provider/-/ethereum-provider-1.0.1.tgz#f8789e2d672ba13ea1cdd01a6c12b34268de9f67"
+  integrity sha512-v2hKeoZftd/Vrs0qg453dhyc8IhgPr4o5bygfCvMD+34i9qkjZpEB+1o/4ej9pTvTp4YdwZtsIbVJwY66ej50A==
   dependencies:
     "@ethereumjs/common" "^2.6.4"
     "@ethereumjs/tx" "^3.5.2"
